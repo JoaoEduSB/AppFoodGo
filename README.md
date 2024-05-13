@@ -1,4 +1,4 @@
-# AppFoodGo
+# App Food Go
 
 ![FoodGo](https://github.com/JoaoEduSB/AppFoodGo/assets/146045770/84a74a2f-f0ca-4497-aaf3-d5db5ada9c03)
 <br>
